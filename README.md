@@ -1,15 +1,6 @@
 单独调用
-http://localhost:8080/redis/test1/3
+http://10.10.143.150:8080/test/memory/stack
 
-数据库配置映射
-http://localhost:8080/user/all
+http://10.10.143.150:8080/test/memory/heap
 
-
-kafka测试
-http://localhost:8080/kafka/producer
-
-
-ElasticSearch测试
-http://localhost:8080/es/test1/30d
-
-http://localhost:8080/es/test2/高危
+http://10.10.143.150:8080/user/all
